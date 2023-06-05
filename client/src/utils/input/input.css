@@ -1,0 +1,13 @@
+input {
+  border: none;
+  border-bottom: 1px solid #008069;
+  background: transparent;
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+input:focus {
+  border-bottom: 1px solid #047f68;
+}

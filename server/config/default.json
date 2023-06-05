@@ -1,0 +1,6 @@
+
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://andrey:Jfifcesz87@reg.5nwk4fu.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey" : "merge-secret-key"
+}
